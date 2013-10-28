@@ -104,11 +104,7 @@ EVENTS_LENGTH_MAX_DIFF  = 12; // max difference in samples between identical eve
 //      up, the algorithm waits for reaching a straight line of track. The 
 //      period finding won't start while the car is moving in a corner.
 //  2 - Looking for the period. 
-//  3 - Futási állapot. A perióduskeresési adatok valamint a megadott
-//      nemlineáris paraméterek és az idömérés alapján gyorsít vagy lassít.
-//      Három féle sebességi érték van. Üresjárat (motorVoltage=0),
-//      maximális kicsúszásmentes sebesség, maximális sebesség (motorVoltage
-//      = 6000)
+//  3 - Drives the car.
 STATE_SPEEDING_UP       = 1;
 STATE_PERIOD_FINDING    = 2;
 STATE_RUN               = 3;
