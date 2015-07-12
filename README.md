@@ -8,13 +8,10 @@ This SciNote demonstrates the operation of a very simple thus very specific peri
 <a title="Goto discussion" href="http://tiborsimon.github.io/electronics/slotcar-race/#discussion" target="_blank">
    <img src="https://img.shields.io/badge/discussion-join-orange.svg?style=flat" />
 </a>
-
 <a title="Latest version" href="https://github.com/tiborsimon/slotcar-algorithm/releases/latest" target="_blank">
    <img src="https://img.shields.io/github/release/tiborsimon/slotcar-algorithm.svg" />
 </a>
-
 <img src="https://img.shields.io/github/downloads/tiborsimon/slotcar-algorithm/latest/total.svg />
-
 <a title="License" href="#license">
    <img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat" />
 </a>
